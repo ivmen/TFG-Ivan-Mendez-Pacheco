@@ -1,0 +1,2 @@
+SHA256(Base de datos.ovf)= 7d7185ba8e9c4a1075ded52d8b3cc50e318a8c5cdb5faf42fc14b1182b5ee839
+SHA256(Base_de_datos-disk1.vmdk)= d74789c38f084eaa4c4d6791a5a08786d6e00953e58c62878db140bc6f24231e

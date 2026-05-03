@@ -1,0 +1,2 @@
+SHA256(Servidor Web.ovf)= 92bdb2a64ddaca5a2e555ec206617208d4f5fc069adb3121a1af58b5276e89dc
+SHA256(Servidor_Web-disk1.vmdk)= e21fe6775161689dc6548636acf9f729a3a4611bf8af0ec0f1ed641e97971d47
